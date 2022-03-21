@@ -10,6 +10,7 @@ Create a virtual environment to install the package and upgrade pip in the virtu
     python3 -m venv virtual_env
     source virtual_env/bin/activate
     pip install --upgrade pip
+    pip install --upgrade setuptools
 
 Install the package.
 
